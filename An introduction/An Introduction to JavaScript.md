@@ -1,4 +1,4 @@
-#An Introduction to JavaScript
+# An Introduction to JavaScript
 
 - JavaScript was initially created as a browser-only language, but it is now used in many other environments as well.
 - Today, JavaScript has a unique position as the most widely-adopted browser language, fully integrated with HTML/CSS.
